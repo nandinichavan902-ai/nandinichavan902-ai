@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🤖 AI Specialist | Generative AI | Machine Learning | RAG | Python<br><br>Welcome to my GitHub profile! 👩‍💻<br><br>I'm a Computer Science graduate with a Bachelor of Computer Applications (BCA) degree and currently pursuing my Master of Computer Applications (MCA). I'm passionate about Artificial Intelligence, Generative AI, Machine Learning, and building intelligent applications that solve real-world problems.<br><br>My journey in technology revolves around continuous learning, practical implementation, and exploring how AI can make everyday tasks smarter and more efficient. I enjoy experimenting with new technologies, developing AI-powered applications, and strengthening my programming skills through hands-on projects.<br><br>I'm currently expanding my knowledge of AI engineering, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-powered automation.<br><br>👩‍💻 About Me<br><br>🎓 BCA Graduate in Computer Science.Me<br><br>🎓 BCA Graduate in Computer Science.<br><br>📚 Currently pursuing MCA.<br><br>🤖 AI Specialist with a focus on Generative AI, Machine Learning, and RAG.<br><br>🐍 Working with Python and libraries used in AI and data science.<br><br>🧠 Exploring Large Language Models (LLMs), Prompt Engineering, NLP, and Agentic AI.<br><br>🔍 Interested in semantic search, embeddings, vector databases, and intelligent information retrieval.<br><br>🚀 Building practical AI applications and learning through real-world projects.<br><br>📈 Continuously improving my problem-solving, programming, and technical skills.<br><br>🎯 My goal is to grow as an AI Engineer and contribute to innovative AI-powered solutions.<br><br>🛠️ Technical Skills<br><br>💻 Programming & Data Analysis<br><br>Python<br><br>NumPy<br><br>Pandas<br><br>Excel<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>Machine Learning<br><br>Deep Learning<br><br>Natural Language Processing (NLP)<br><br>Scikit-learn<br><br>TensorFlow<br><br>Keras<br><br>Word2Vec<br><br>Gensim<br><br>🧠 Generative AI & LLMs<br><br>Generative AI<br><br>Large Language Models (LLMs)<br><br>Prompt Engineering<br><br>LangChain<br><br>Groq API<br><br>Retrieval-Augmented Generation (RAG)<br><br>Text Embeddings<br><br>Semantic Search<br><br>Vector Databases<br><br>Agentic AI<br><br>🔧 Tools & Technologies<br><br>Jupyter Notebook<br><br>Gradio<br><br>REST API Integration<br><br>JSON<br><br>Git & GitHub
 
-<!--
-**nandinichavan902-ai/nandinichavan902-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-chavan-18482837b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nandini Chavan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandinichavan902@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nandinichavan902-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nandinichavan902-ai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandinichavan902-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=nandinichavan902-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
